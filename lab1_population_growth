@@ -1,4 +1,4 @@
-#include <cs50.h>
+#include <cs50.h>  //afiq
 #include <stdio.h>
 
 int main(void)
@@ -33,7 +33,6 @@ int main(void)
 
         years++;
     }
-//afiq
 
     //print
     printf("Years: %i\n", years);
