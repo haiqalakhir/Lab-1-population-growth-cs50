@@ -1,0 +1,8 @@
+1. use metrics such as average energy, valence, and danceability. These metrics can provide insights into the overall mood and characteristics of a playlist
+
+2. - Not Enough Metrics: Using only a few things like energy, valence, and danceability might not show all the music someone likes. Adding tempo, acousticness, instrumentalness, and different genres can give a better picture
+   - Equal Song Treatment: Treating all songs the same way in the top 100 might not show what a person really likes. It's better to look at how popular or important each song is, maybe based on plays or user ratings.
+   - Ignoring Changes Over Time: Only looking at the top 100 songs from one year might miss how someone's music taste changes. Looking at trends over multiple years or seasons would be more accurate.
+   - Not Personal Enough: Not considering personal preferences, like song likes, skips, or direct feedback from the user, could make the audio aura less accurate
+   - Lack of Context: Not looking at when and where songs were listened to, and not considering external factors like events or moods, could miss important details about the listener's preferences.
+   
